@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "tests": "jest"
+    "test": "jest"
   },
   "author": "bright <brightbalogun195@gmail.com>",
   "license": "MIT",
